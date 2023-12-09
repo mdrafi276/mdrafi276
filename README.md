@@ -4,12 +4,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrafi276&theme=blueberry-duo&hide_border=true&border_radius=4.6&card_width=1000)](https://git.io/streak-stats)
 -
-<p align="center">
+
+<h3 align="left">💻 Technologies that I know
+ <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,html" />
   </a>
 </p>
-<h3 align="left">💻 Technologies that I know
 </h3>
 
 <h1 align="left">Hi 👋, I'm MD. Rafi</h1>
