@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript , react**
 
-- 📫 How to reach me **mdrafi37473@gmail.com**
+- 📫 Connect with me **mdrafi37473@gmail.com**
 
  - <h3 align="left">Connect with me: </h3>
 <p align="left">
