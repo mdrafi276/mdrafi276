@@ -30,7 +30,7 @@
 <h1 align="left">💫 About Me:</h1>
 
 <h3 align="left"> Hi there I am Mern stack developer from Bangladesh</h3>
-🌟 Skills: Proficient in the MERN stack - MongoDB, Express, React, Node.js. Skilled in frontend design with CSS, JavaScript, and React.
+-🌟 Skills: Proficient in the MERN stack - MongoDB, Express, React, Node.js. JavaScript, and React.
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
