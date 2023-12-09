@@ -26,10 +26,10 @@
 
 
 <h3 align="left">I am Mern stack developer from Bangladesh</h3>
--⚡I love to make complex origami and I can speak 3 languages.
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrafi276&label=Profile%20views&color=0e75b6&style=flat" alt="mdrafi276" /> </p>
+- ⚡I love to make complex origami and I can speak 3 languages.
 
 - 🤝 I’m looking for help with **web developement**
 
