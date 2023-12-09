@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in](https://raw.githubusercontent.com/mdrafi276/stellar-client/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png))
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm MD. Rafi</h1>
 <h3 align="center">i am junior frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
