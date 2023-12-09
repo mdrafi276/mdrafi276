@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrafi276&label=Profile%20views&color=0e75b6&style=flat" alt="mdrafi276" /> </p>
-console.log("hello world"
 
 - 🤝 I’m looking for help with **web developement**
 
