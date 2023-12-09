@@ -33,7 +33,6 @@
 <h3 align="left"> 👋 Hi there! I'm Rafi, a Mern Stack web developer in Bangladesh</h3>
 
 -🌟 Skills: Proficient in the MERN stack - MongoDB, Express, React, Node.js. JavaScript, and React.
-- 🔍 Currently open to exciting opportunities to grow, learn, and contribute as part of a dynamic team.
 
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -42,6 +41,8 @@
 
 - 🤝 I’m looking for help with **web developement**
 - - 💬 Ask me about **JavaScript , react**
+    - 🔍 Currently open to exciting opportunities to grow, learn, and contribute as part of a dynamic team.
+
 
 
 - 👨‍💻 All of my projects are available at [https://bis-tro-boss.web.app/](https://bis-tro-boss.web.app/)
