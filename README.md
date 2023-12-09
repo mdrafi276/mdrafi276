@@ -28,9 +28,9 @@
 
 
 <h1 align="left">💫 About Me:</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrafi276&label=Profile%20views&color=0e75b6&style=flat" alt="mdrafi276" /> </p>
 
 <h3 align="left"> Hi there I am Mern stack developer from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrafi276&label=Profile%20views&color=0e75b6&style=flat" alt="mdrafi276" /> </p>
 
 -🌟 Skills: Proficient in the MERN stack - MongoDB, Express, React, Node.js. JavaScript, and React.
 
