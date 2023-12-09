@@ -13,7 +13,7 @@
 
 - 📫 How to reach me ****
 
-<h3 align="left">Connect with me: mdrafi.37473@gmail.com</h3>
+<h3 align="left">Connect with me: **mdrafi37473@gmail.com**</h3>
 <p align="left">
 </p>
 
