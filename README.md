@@ -10,17 +10,17 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,linkedin" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,firebase,git,linkedin" />
+    <img src="https://skillicons.dev/icons?i=figma,firebase,git,tailwind,vscode" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node.js,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=node.js" />
   </a>
 </p>
 
