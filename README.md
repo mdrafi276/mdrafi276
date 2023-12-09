@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bis-tro-boss.web.app/](https://bis-tro-boss.web.app/)
 
-- 💬 Ask me about **react, gsap, locomotive**
+- 💬 Ask me about **JavaScript , react**
 
 - 📫 How to reach me **mdrafi.37473@gmail.com**
 
