@@ -8,7 +8,7 @@
 <h3 align="left">💻 Technologies that I know
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css,javascript,react,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb" />
   </a>
 </p>
 </h3>
