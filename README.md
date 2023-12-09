@@ -32,10 +32,11 @@
 - ⚡I love to make complex origami and I can speak 3 languages.
 
 - 🤝 I’m looking for help with **web developement**
+- - 💬 Ask me about **JavaScript , react**
+
 
 - 👨‍💻 All of my projects are available at [https://bis-tro-boss.web.app/](https://bis-tro-boss.web.app/)
 
-- 💬 Ask me about **JavaScript , react**
 
 - 📫 Connect with me **mdrafi37473@gmail.com**
 
