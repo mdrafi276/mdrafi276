@@ -6,9 +6,9 @@
 
 
 
--
+
 <h3 align="left">💻 Technologies that I know
- 
+- 
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
