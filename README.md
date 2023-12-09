@@ -13,6 +13,16 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,firebase,git,linkedin" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node.js,tailwind,vscode" />
+  </a>
+</p>
 
 <h1 align="left">Hi 👋, I'm MD. Rafi</h1>
 <h3 align="left">I am Mern stack developer from Bangladesh</h3>
