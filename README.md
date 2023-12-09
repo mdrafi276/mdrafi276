@@ -41,7 +41,6 @@
 
 - 🤝 I’m looking for help with **web developement**
 - - 💬 Ask me about **JavaScript , react**
-    - 🔍 Currently open to exciting opportunities to grow, learn, and contribute as part of a dynamic team.
 
 
 
@@ -49,6 +48,7 @@
 
 
 - 📫 Connect with me **mdrafi37473@gmail.com**
+- 🔍 Currently open to exciting opportunities to grow, learn, and contribute as part of a dynamic team.
 
 <p align="left">
 <p align="left">
