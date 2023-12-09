@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/mdrafi276/stellar-client/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png)
  <h3 align="left">Current Status</h3>
- ________________________________________________________________________________________________________________________________________
+ ___________________________________________________________________________________________________________________________________________________
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrafi276&theme=blueberry-duo&hide_border=true&border_radius=4.6&card_width=1000)](https://git.io/streak-stats)
 
