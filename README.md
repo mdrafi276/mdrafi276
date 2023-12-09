@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h1 align="left">Hi 👋, I'm MD. Rafi</h1>
+
 <h3 align="left">I am Mern stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
