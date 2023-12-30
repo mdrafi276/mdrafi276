@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/wS3wfZx/Blue-And-Red-Futuristic-Game-You-Tube-Channel-Art-1.png)
+![MasterHead]([https://i.ibb.co/wS3wfZx/Blue-And-Red-Futuristic-Game-You-Tube-Channel-Art-1.png](https://i.ibb.co/177X5vW/Blue-Black-Modern-Technology-Linked-In-Banner-2.png))
  <h3 align="left">📈 Current Stats</h3>
  _________________________________________________________________________________________________________________________________________________
 
