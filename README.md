@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/177X5vW/Blue-Black-Modern-Technology-Linked-In-Banner-2.png)
+![MasterHead](https://i.ibb.co/WKG3ym6/Black-Gold-Elegant-Classy-New-Year-Banner-Landscape-1.png)
  <h3 align="left">📈 Current Stats</h3>
  _________________________________________________________________________________________________________________________________________________
 
