@@ -6,7 +6,7 @@
 <br/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrafi276&theme=blueberry-duo&hide_border=true&border_radius=4.6&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrafi276&theme=blueberry-duo&hide_border=true&border_radius=10.6&card_width=1000)](https://git.io/streak-stats)
 
 
 
