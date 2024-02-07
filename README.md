@@ -34,9 +34,9 @@
 <h1 align="left">💫 About Me:</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrafi276&label=Profile%20views&color=0e75b6&style=flat" alt="mdrafi276" /> </p>
 
-<h3 align="left"> 👋 Hi there! I'm Rafi, a Mern Stack web developer in Bangladesh</h3>
+<h3 align="left"> 👋 Hi there! I'm Rafi, a Full Stack web developer in Bangladesh</h3>
 
--🌟 Skills: Proficient in the MERN stack - MongoDB, Express, React, Node.js. JavaScript, and React.
+-🌟 Skills: Proficient in the Full stack - MongoDB, Express, React, Next.Js Python,  Node.js. JavaScript,  and React.
 
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
