@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/WKG3ym6/Black-Gold-Elegant-Classy-New-Year-Banner-Landscape-1.png)
+![MasterHead](https://i.ibb.co/qsZnHp5/Blue-And-White-Bold-Business-Solution-Linked-In-Article-Cover-Image.png)
  <h3 align="left">📈 Current Stats</h3>
  _________________________________________________________________________________________________________________________________________________
 <br/>
