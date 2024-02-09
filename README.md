@@ -25,7 +25,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,py, nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,py, vite" />
   </a>
 </p>
 <p align="center">
