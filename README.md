@@ -13,7 +13,7 @@
 </p>
 
 
-## :mailbox: Reach me out
+## :mailbox: Reach me out,
 
 <br />
 
