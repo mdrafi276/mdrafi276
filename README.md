@@ -1,4 +1,4 @@
-![MasterHead](https://ibb.co/bQ9SWXg)
+![MasterHead](https://i.ibb.co/4Kr6mpZ/protfollio.png)
  <h3 align="left">📈 Current Stats</h3>
  _________________________________________________________________________________________________________________________________________________
 <br/>
