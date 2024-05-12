@@ -1,4 +1,4 @@
-![MasterHead](https://ibb.co/bQ9SWXg)
+![MasterHead](https://i.ibb.co/qsZnHp5/Blue-And-White-Bold-Business-Solution-Linked-In-Article-Cover-Image.png)
  <h3 align="left">📈 Current Stats</h3>
  _________________________________________________________________________________________________________________________________________________
 <br/>
