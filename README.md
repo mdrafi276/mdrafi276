@@ -25,17 +25,17 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,py,typescript,mysql,nextJs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,py,typescript,mysql,postman," />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,postgres,prisma,postgres" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,bun,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,bun,nextjs,redux,vercel,yarn" />
   </a>
 </p>
 
