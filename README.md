@@ -30,7 +30,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,netlify,prisma,postgres,docker	" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,netlify,prisma,postgres,docker" />
   </a>
 </p>
 <p align="center">
