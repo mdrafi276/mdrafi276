@@ -99,7 +99,10 @@
         <img src="https://skillicons.dev/icons?i=sass" width="60" height="60" alt="CSS" />
       <br>SASS
     </td>
- <td align="center" width="96">
+  
+  </tr>
+  <tr>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="60" height="60" />
       <br>VSCode
     </td>
@@ -107,11 +110,12 @@
         <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="60" height="60" />
       <br>Vercel
     </td>
-    <td align="center" width="96">
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60" />
       <br>Postman
     </td>
   </tr>
+  
 
 </table>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrafi276&theme=react">
