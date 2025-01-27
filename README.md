@@ -72,14 +72,6 @@
       <br>Firebase
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="NextAuth" />
-      <br>Netlify
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
       <br>Tailwind CSS
     </td>
@@ -102,6 +94,14 @@
   
   </tr>
   <tr>
+ <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="NextAuth" />
+      <br>Netlify
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="60" height="60" />
       <br>VSCode
