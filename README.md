@@ -64,18 +64,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
       <br>Express JS
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="60" height="60" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="60" height="60" />
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60" />
-      <br>Postman
-    </td>
+ </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -109,6 +98,18 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="60" height="60" alt="CSS" />
       <br>SASS
+    </td>
+ <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="60" height="60" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="60" height="60" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60" />
+      <br>Postman
     </td>
   </tr>
 
