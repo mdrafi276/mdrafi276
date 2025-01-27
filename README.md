@@ -34,6 +34,10 @@
       <br>React
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="60" height="60" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" alt="React" width="60" height="60" />
       <br>React
     </td>
@@ -65,8 +69,12 @@
       <br>VSCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="60" height="60" />
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="60" height="60" />
       <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60" />
+      <br>Postman
     </td>
   </tr>
   <tr>
@@ -106,27 +114,6 @@
 
 </table>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrafi276&theme=react">
-
-
-<h3 align="left">💻 Technologies that I know
-- 
-</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,py,typescript,mysql,postman,pnpm,npm" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,vite,tailwind,vscode,netlify,prisma,postgres,docker" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,bun,nextjs,redux,vercel,yarn" />
-  </a>
-</p>
-
 
 <h1 align="left">💫 About Me:</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrafi276&label=Profile%20views&color=0e75b6&style=flat" alt="mdrafi276" /> </p>
