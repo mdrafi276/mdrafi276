@@ -57,7 +57,9 @@
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
       <br>Node JS
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+       <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />
       <br>Rest API
     </td>
@@ -65,8 +67,6 @@
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
       <br>Express JS
  </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
       <br>Firebase
