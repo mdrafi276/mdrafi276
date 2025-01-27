@@ -26,7 +26,15 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
+      <br>Next JS
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" alt="React" width="60" height="60" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -50,15 +58,15 @@
       <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
       <br>Express JS
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="60" height="60" />
       <br>VSCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="60" height="60" />
+      <br>Vercel
     </td>
   </tr>
   <tr>
@@ -89,6 +97,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
       <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="60" height="60" alt="CSS" />
+      <br>SASS
     </td>
   </tr>
 
