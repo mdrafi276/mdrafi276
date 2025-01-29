@@ -35,20 +35,20 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="60" height="60" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" alt="React" width="60" height="60" />
       <br>React
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
-      <br>TypeScript
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="60" height="60" />
+      <br>Vite
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
