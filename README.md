@@ -2,7 +2,7 @@
  <h3 align="left">📈 Current Stats</h3>
   _________________________________________________________________________________________________________________________________________________ 
  <br /> 
- sdfasdfasdf sdf asd asdf asd asdf sadf sdf dasf asdf asdf sdf sadf sdf asdf  asdf asdf sdf sdf 
+ sdfasdfasdf sdf asd asdf asd asdf sadf sdf dasf asdf asdf sdf sadf sdf asdf  asdf asdf sdf sdf  asdf 
  
 Welcome to my GitHub profile! I am a passionate full stack web developer with expertise in Next.js, React, TypeScript, Express.js, MongoDB, PostgreSQL, and more. I build scalable, high-performance applications with a focus on clean code and best practices.  
 <br/>
