@@ -5,7 +5,7 @@
  <h3 align="left">📈 Something about me</h3>
  <br />
 sdf df sdf sdfasdf 
-djfksfasdf  sdf asdf asdf 
+djfksfasdf  sdf asdf 
 sdfdfasdf asdfsdf dfasdf sfd asdf sdf sdf sdf sdf  asdf sadf asdf  asdf asdf asdf
 sdfsdf s sdf asdf asdf sfas asdf asdf sdf asf
 
