@@ -1,10 +1,10 @@
-![MasterHead](https://i.ibb.co/4Kr6mpZ/protfollio.png)
+`![MasterHead](https://i.ibb.co/4Kr6mpZ/protfollio.png)
 
   _________________________________________________________________________________________________________________________________________________ 
  
  <h3 align="left">📈 Something about me</h3>
  <br />
-asdff asdf asdf asdf asdfa asdf  asdf asdf asdf asdf adsf sd safad asfd asdf  asdf asdf asdf asdf asdf asdfa asdf
+asdff asdf asdf asdf asdfa asdf  asdf asdf asdf asdf adsf sd safad asfd asdf  asdf asdf asdf asdf asdf asdfa asdf asdf asdf
 asdf asdf asdf asdf asdf asdf asd asdf
  
 Welcome to my GitHub profile! I am a passionate full stack web developer with expertise in Next.js, React, TypeScript, Express.js, MongoDB, PostgreSQL, and more. I build scalable, high-performance applications with a focus on clean code and best practices.  
