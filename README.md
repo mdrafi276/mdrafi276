@@ -4,6 +4,8 @@
  
  <h3 align="left">📈 Something about me</h3>
  <br />
+
+ asdf
  
 Welcome to my GitHub profile! I am a passionate full stack web developer with expertise in Next.js, React, TypeScript, Express.js, MongoDB, PostgreSQL, and more. I build scalable, high-performance applications with a focus on clean code and best practices.  
 <br/>
