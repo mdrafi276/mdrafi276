@@ -4,7 +4,6 @@
  
  <h3 align="left">📈 Something about me</h3>
  <br />   
- asdfasf asdf asdf asdf asdfasdf  asdf asdf asdf asf asdf asfda asdf asdf asdf asdfasdf asdf asdf asdfasdf asdf asdfasdf asdfasdf asfasfd  asdfsadf
   
 Welcome to my GitHub profile! I am a passionate full stack web developer with expertise in Next.js, React, TypeScript, Express.js, MongoDB, PostgreSQL, and more. I build scalable, high-performance applications with a focus on clean code and best practices.  
 <br/>
